@@ -1,0 +1,72 @@
+# JC-MP Stuntastic alpha
+
+## Features
+
+### Stunts
+
+* Land
+drift
+spin
+airtime
+speed
+(roll)
+* moto
+(wheelie)
+
+* Air
+(lowflyer)
+(looping)
+
+
+* Water
+(airtime)
+
+bonuses:
+- during stunts
+	- time bonus
+	- combo: simulataneous, sequences
+	- location bonus
+	- vehicle exploded
+- after session:
+	- distance traveled, vehicle health, # of different stunts
+
+### Sessions
+- solo:
+	- freestyle (defaultworld)
+### challenges: time, score over multiple vehicles
+- solo:
+	- berzerker mode (with traps) (high scores are targetted) (defaultworld, higher bonuses in busy areas)
+- solo/group:
+	- location: downhill/arena/track/area/free (!defaultworld)
+	- type: freestyle (time), score goal, stunts/combos goal, (with optional vehicle constraints and extra stunt ramps)
+	- extra type: combination (default or !default world)
+
+earn more freestyle vehicles/powerups
+### powerups: driftboost, balancer, stuntplace-radar
+
+* car
+	- airtime
+	- drifting
+	- speeding
+	- 2 wheels
+	- swimming
+	- reversing
+	- spinning
+	- front/back flip
+	- roll
+* plane
+	- low flyer
+	- upside down
+	- flying backwards
+	- flying slow
+	- overbanking
+	- swimming
+	- limbo
+	- roll
+* bike
+	- back/front wheelie
+	- tilting
+* boat
+	- airtime
+	- landslide + water re-entry bonus
+	- diving
